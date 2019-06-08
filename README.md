@@ -100,6 +100,6 @@ If you want to use original pretrained weights for YOLOv3:
 
 ---
 
-## *Some Additional Function
-1.	Calculate the precision and recall for different score (Unfinished).
-2.	Annotate your picture without transformation(Unfinished).
+## *Some additional function in this copy
+1.	Help calculate the precision and recall for different score ([Here](https://github.com/Iam5B/2019-Yolov3KerasCopy/calculatemAP)).
+2.	Annotate your picture (Unfinished).
